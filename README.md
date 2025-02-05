@@ -87,10 +87,6 @@ user-auth-book-search/
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ---
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 ## Contact
-For any queries or issues, please contact [your-email@example.com].
+For any queries or issues, please contact samratmandal423@gmil.com .
 
