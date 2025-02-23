@@ -64,7 +64,7 @@ The system will display up to 5 book results for each search query.
 ---
 ## File Structure
 ```
-user-auth-book-search/
+EpicLibrary
 ├── main.py            # Main application script
 ├── user_data.csv       # Stores user information
 └── user_activity.log   # Activity logs for the application
