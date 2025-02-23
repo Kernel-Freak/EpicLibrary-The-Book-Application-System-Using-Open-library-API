@@ -31,6 +31,7 @@ This project is a Python-based console application that provides user registrati
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kernel-Freak/EpicLibrary-The-Book-Search-Application-Using-Open-library-API
+   cd EpicLibrary-The-Book-Search-Application-Using-Open-library-API
    ```
 2. Install required dependencies:
    ```bash
