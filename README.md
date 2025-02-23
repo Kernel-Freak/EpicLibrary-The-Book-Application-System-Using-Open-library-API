@@ -30,8 +30,7 @@ This project is a Python-based console application that provides user registrati
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/user-auth-book-search.git
-   cd user-auth-book-search
+   git clone https://github.com/Kernel-Freak/EpicLibrary-The-Book-Search-Application-Using-Open-library-API
    ```
 2. Install required dependencies:
    ```bash
